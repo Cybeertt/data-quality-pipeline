@@ -1,6 +1,9 @@
-company_name,mailing_address
-Cedar Ridge Plumbing LLC,"4821 Maple Ave, Lincoln, NE 68504"
-Bayview Auto Repair,"129 Harbor St, Tacoma, WA 98402"
-Pioneer Landscaping Inc,"940 Prairie View Dr, Boise, ID 83704"
-Brookside Veterinary Clinic,"760 Willow Bend, Chattanooga, TN 37402"
-Ironclad Welding Shop,"1701 Foundry Rd, Pittsburgh, PA 15201"
+contributor_id,name,country,score,last_active
+1,Ana Silva,PT,85,2026-06-15
+2,John Doe,US,92,2026-06-18
+3,Marie Curie,FR,78,2026-06-10
+4,Carlos Gomez,ES,45,2026-05-20
+5,Wei Zhang,CN,95,2026-06-19
+6,Elena Petrova,RU,33,2026-04-01
+7,James Brown,US,88,2026-06-17
+8,Fatima Al-Hassan,AE,91,2026-06-16
